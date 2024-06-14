@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @GayaaniD
-- 👀 I’m interested in drawing, singing & travelling
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Generative AI(LLM)
 - 💞️ I’m looking to collaborate on projects related to Generative AI, Machine learning
 - 📫 How to reach me ...
